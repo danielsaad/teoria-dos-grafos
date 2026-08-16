@@ -1,0 +1,61 @@
+{
+    "title": "Teoria dos Grafos",
+    "languageCode": "pt-br",
+    "params": {
+        "course": {
+            "code": "TG",
+            "semester": "2026/2",
+            "room": "D1-14",
+            "virtual_room": "https://classroom.google.com/c/ODcxMzM5NjUxOTM4?cjc=zmnbwbwy"
+        },
+        "professor": {
+            "name": "Dr. Daniel Saad Nogueira Nunes"
+        }
+    },
+    "menus": {
+        "main": [
+            {
+                "name": "Início",
+                "pageRef": "/",
+                "weight": 10
+            },
+            {
+                "name": "Aulas",
+                "url": "#lectures",
+                "weight": 20
+            },
+            {
+                "name": "Plano de Ensino",
+                "url": "#schedule",
+                "weight": 30
+            },
+            {
+                "name": "Exercícios",
+                "url": "#exercises",
+                "weight": 40
+            },
+            {
+                "name": "Materiais",
+                "url": "#materials",
+                "weight": 50
+            },
+            {
+                "name": "Notas",
+                "url": "#grades",
+                "weight": 60
+            },
+            {
+                "name": "Atendimento",
+                "url": "#contact",
+                "weight": 70
+            }
+        ]
+    },
+    "module": {
+        "imports": [
+            {
+                "path": "github.com/danielsaad/hugo-academic-course"
+            }
+        ]
+    }
+}
