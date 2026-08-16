@@ -1,6 +1,7 @@
 {
     "title": "Teoria dos Grafos",
     "languageCode": "pt-br",
+    "baseURL": "https://danielsaad.com/teoria-dos-grafos/",
     "params": {
         "course": {
             "code": "TG",
