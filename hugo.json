@@ -2,6 +2,7 @@
     "title": "Teoria dos Grafos",
     "languageCode": "pt-br",
     "baseURL": "https://danielsaad.com/teoria-dos-grafos/",
+    "theme": "hugo-academic-course",
     "params": {
         "course": {
             "code": "TG",
@@ -49,13 +50,6 @@
                 "name": "Atendimento",
                 "url": "#contact",
                 "weight": 70
-            }
-        ]
-    },
-    "module": {
-        "imports": [
-            {
-                "path": "github.com/danielsaad/hugo-academic-course"
             }
         ]
     }
