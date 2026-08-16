@@ -1,3 +1,4 @@
 [submodule "themes/hugo-academic-course"]
 	path = themes/hugo-academic-course
 	url = https://github.com/danielsaad/hugo-academic-course.git
+	branch = main
