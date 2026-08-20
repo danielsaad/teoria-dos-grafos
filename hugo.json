@@ -3,6 +3,7 @@
     "languageCode": "pt-br",
     "baseURL": "https://danielsaad.com/teoria-dos-grafos/",
     "theme": "hugo-academic-course",
+    "relativeURLs": true,
     "params": {
         "course": {
             "code": "TG",
