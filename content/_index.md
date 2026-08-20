@@ -2,7 +2,7 @@
 title: "Teoria dos Grafos"
 ---
 
-## Informações 
+## Informações
 
 - Professor: Dr. Daniel Saad Nogueira Nunes
 - Semestre: 2026/2
