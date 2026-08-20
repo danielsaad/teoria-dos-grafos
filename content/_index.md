@@ -11,17 +11,17 @@ title: "Teoria dos Grafos"
 
 ## Aulas {#lectures}
 
-- [Introdução]
-- [Conceitos Básicos]
-- [Percurso em Grafos]
-  
+- [Introdução](/pdf/aulas/grafos.pdf)
+- [Conceitos Básicos](/pdf/aulas/conceitos-basicos.pdf)
+- [Percurso em Grafos]()
+
 ## Exercícios {#exercises}
 
-## Plano de Ensino {#schedule}
+## [Plano de Ensino](/pdf/planejamento/plano-de-ensino.pdf) {#schedule}
 
 
 ## Materiais {#materials}
 
 ## Notas {#grades}
 
-## [Atendimento](https://danielsaad.com/contato)  {#contact}
+## [Atendimento](https://danielsaad.com/contato) {#contact}
