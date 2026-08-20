@@ -11,13 +11,13 @@ title: "Teoria dos Grafos"
 
 ## Aulas {#lectures}
 
-- [Introdução](/pdf/aulas/grafos.pdf)
-- [Conceitos Básicos](/pdf/aulas/conceitos-basicos.pdf)
-- [Percurso em Grafos](/pdf/aulas/percurso-em-grafos.pdf)
+- [Introdução](pdf/aulas/grafos.pdf)
+- [Conceitos Básicos](pdf/aulas/conceitos-basicos.pdf)
+- [Percurso em Grafos](pdf/aulas/percurso-em-grafos.pdf)
 
 ## Exercícios {#exercises}
 
-## [Plano de Ensino](/pdf/planejamento/plano-de-ensino.pdf) {#schedule}
+## [Plano de Ensino](pdf/planejamento/plano-de-ensino.pdf) {#schedule}
 
 ## Materiais {#materials}
 
