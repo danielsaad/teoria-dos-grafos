@@ -12,7 +12,7 @@ title: "Teoria dos Grafos"
 ## Aulas {#lectures}
 
 - [Introdução](pdf/aulas/grafos.pdf)
-- [Conceitos Básicos](pdf/aulas/conceitos-basicos.pdf)
+- [Conceitos Preliminares](pdf/aulas/conceitos-preliminares.pdf)
 - [Percurso em Grafos](pdf/aulas/percurso-em-grafos.pdf)
 
 ## Exercícios {#exercises}
