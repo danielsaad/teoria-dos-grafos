@@ -17,6 +17,8 @@ title: "Teoria dos Grafos"
 
 ## Exercícios {#exercises}
 
+- [Percurso em Grafos](https://saad_2026_2_tg_percurso.moj.naquadah.com.br/)
+
 ## [Plano de Ensino](pdf/planejamento/plano-de-ensino.pdf) {#schedule}
 
 ## Materiais {#materials}
