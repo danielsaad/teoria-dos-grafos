@@ -14,6 +14,9 @@ title: "Teoria dos Grafos"
 - [Introdução](pdf/aulas/grafos.pdf)
 - [Conceitos Preliminares](pdf/aulas/conceitos-preliminares.pdf)
 - [Percurso em Grafos](pdf/aulas/percurso-em-grafos.pdf)
+- [Fenwick Tres](pdf/aulas/fenwick-trees.pdf)
+- [Segment Trees](pdf/aulas/segment-trees.pdf)
+- [Fenwick Tres](pdf/aulas/segment-trees-lazy-propagation.pdf)
 
 ## Exercícios {#exercises}
 
