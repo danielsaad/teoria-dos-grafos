@@ -17,6 +17,7 @@ title: "Teoria dos Grafos"
 - [Fenwick Tres](pdf/aulas/fenwick-trees.pdf)
 - [Segment Trees](pdf/aulas/segment-trees.pdf)
 - [Segment Trees: Lazy Propagation](pdf/aulas/segment-trees-lazy-propagation.pdf)
+- [Lowest Common Ancestor](pdf/aulas/lowest-common-ancestor.pdf)
 
 ## Exercícios {#exercises}
 
