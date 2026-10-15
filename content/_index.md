@@ -24,8 +24,8 @@ title: "Teoria dos Grafos"
 - [Percurso em Grafos](https://saad_2026_2_tg_percurso.moj.naquadah.com.br/)
 - [Árvores de Fenwick](https://saad_tg_2026_2_arvores_de_fenwick.moj.naquadah.com.br)
 - [Árvores de Segmentos](https://saad_ifb_tg_2026_2_arvores_de_segmentos.moj.naquadah.com.br)
-- [Ancestral Comum mais Baixo]()
-- [Árvore Geradora Mínima]()
+- [Ancestral Comum mais Baixo](https://saad_ifb_tg_2026_2_ancestral_comum_mais_baixo.moj.naquadah.com.br)
+- [Árvore Geradora Mínima](https://saad_ifb_tg_2026_2_arvore_geradora_minima.moj.naquadah.com.br)
 
 ## [Plano de Ensino](pdf/planejamento/plano-de-ensino.pdf) {#schedule}
 
