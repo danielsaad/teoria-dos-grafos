@@ -18,6 +18,7 @@ title: "Teoria dos Grafos"
 - [Segment Trees](pdf/aulas/segment-trees.pdf)
 - [Segment Trees: Lazy Propagation](pdf/aulas/segment-trees-lazy-propagation.pdf)
 - [Lowest Common Ancestor](pdf/aulas/lowest-common-ancestor.pdf)
+- [Mininum Spanning Tree](pdf/aulas/minimum-spanning-tree.pdf)
 
 ## Exercícios {#exercises}
 
