@@ -32,6 +32,6 @@ title: "Teoria dos Grafos"
 
 ## Materiais {#materials}
 
-## Notas {#grades}
+## [Notas](pdf/notas.pdf) {#grades}
 
 ## [Atendimento](https://danielsaad.com/contato) {#contact}
