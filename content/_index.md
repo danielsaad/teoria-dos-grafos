@@ -27,6 +27,7 @@ title: "Teoria dos Grafos"
 - [Árvores de Segmentos](https://saad_ifb_tg_2026_2_arvores_de_segmentos.moj.naquadah.com.br)
 - [Ancestral Comum mais Baixo](https://saad_ifb_tg_2026_2_ancestral_comum_mais_baixo.moj.naquadah.com.br)
 - [Árvore Geradora Mínima](https://saad_ifb_tg_2026_2_arvore_geradora_minima.moj.naquadah.com.br)
+- [Menor Caminho](https://saad_ifb_tg_2026_2_menor_caminho.moj.naquadah.com.br)
 
 ## [Plano de Ensino](pdf/planejamento/plano-de-ensino.pdf) {#schedule}
 
